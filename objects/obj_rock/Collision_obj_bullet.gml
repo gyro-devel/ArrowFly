@@ -20,3 +20,4 @@ else
 	instance_destroy();	
 }
 
+//This is a comment :)
